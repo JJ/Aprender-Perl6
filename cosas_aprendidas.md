@@ -1,5 +1,5 @@
 #Diario de las clases
-
+***
 ##Sesión 1: aprendimos a buscar un *target* para nuestros productos y empatizar con él/ella.
 ***
 ##Sesión 2: aprendimos un API.
@@ -19,6 +19,6 @@ Sesión 7:hablamos de cómo podria ser la obra de teatro.
 ***
 ##Sesión 9:aprendimos a usar la orden .WHAT para ver de que tipo son los números y empezamos 
 a usar emacs.
-
+***
 
 
