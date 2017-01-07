@@ -26,8 +26,8 @@ Hablamos de cómo podria ser la obra de teatro.
 Aprendimos a hacer operaciones básicas con perl.
 ***
 ## Sesión 9:
-Aprendimos a usar la orden .WHAT para ver de que tipo son los números y empezamos 
-a usar emacs.
+Aprendimos a usar la orden `.WHAT` para ver de que tipo son los números y empezamos 
+a usar `emacs`.
 ***
 
 
